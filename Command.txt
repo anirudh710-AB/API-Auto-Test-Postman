@@ -1,6 +1,0 @@
-Path of the collection and test data file : C:\Users\Anirudh\Desktop\Prints\API presentation
-
-Command to run : 
-
-newman run DemoCollection.postman_collection.json -d TestData.json
-newman
